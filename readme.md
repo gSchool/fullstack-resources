@@ -19,3 +19,13 @@ This covers workflow, best practices, and general theory behind SPAs.
 ## Lists
 [StackOverflow's List of
 Resources](http://stackoverflow.com/tags/javascript/info)
+
+# CSS
+
+# HTML
+
+# Git
+
+# Unix
+
+# Tools
