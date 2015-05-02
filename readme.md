@@ -15,3 +15,7 @@ This is a simple, slow introduction to the JavaScript language.
 [Human JavaScript](http://read.humanjavascript.com/)  
 This covers workflow, best practices, and general theory behind SPAs.
 
+
+## Lists
+[StackOverflow's List of
+Resources](http://stackoverflow.com/tags/javascript/info)
