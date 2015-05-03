@@ -25,10 +25,13 @@ This covers workflow, best practices, and general theory behind SPAs.
 Resources](http://stackoverflow.com/tags/javascript/info)
 
 # CSS
+[CSS Diner](http://flukeout.github.io/)
 
 # HTML
 
 # Git
+[Try Git](https://try.github.io)  
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
 # Unix
 
