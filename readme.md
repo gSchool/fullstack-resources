@@ -16,6 +16,10 @@ An excellent introduction to OOP in Javascript. Covers constructors, prototypes,
 This is a simple, slow introduction to the JavaScript language.  
 **Beginner**
 
+[Human Javascript](http://humanjavascript.com/)
+Book on making javascript easier to understand
+**Beginner/Intermediate**
+
 [Human JavaScript](http://read.humanjavascript.com/)  
 This covers workflow, best practices, and general theory behind SPAs.  
 **Intermediate**
