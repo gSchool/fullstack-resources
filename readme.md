@@ -27,6 +27,8 @@ This covers workflow, best practices, and general theory behind SPAs.
 [StackOverflow's List of
 Resources](http://stackoverflow.com/tags/javascript/info)
 
+[10 Articles every programmer must read](http://www.javacodegeeks.com/2014/05/10-articles-every-programmer-must-read.html)
+
 # CSS
 [CSS Diner](http://flukeout.github.io/)
 
@@ -39,3 +41,11 @@ Resources](http://stackoverflow.com/tags/javascript/info)
 # Unix
 
 # Tools
+
+# Computer Science
+
+## Sorting
+
+* [CS50 - Study Review](https://www.youtube.com/watch?v=FlXVD06zJJ0)
+* [CS50 - Loops](https://study.cs50.net/loops)
+* [Linked List Basics](http://cslibrary.stanford.edu/103/)
