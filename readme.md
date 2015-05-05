@@ -22,10 +22,6 @@ This is a simple, slow introduction to the JavaScript language.
 Book on making javascript easier to understand
 **Beginner/Intermediate**
 
-[Human JavaScript](http://read.humanjavascript.com/)  
-This covers workflow, best practices, and general theory behind SPAs.  
-**Intermediate**
-
 [Single Page App Book](http://singlepageappbook.com/)
 **Advanced**
 
