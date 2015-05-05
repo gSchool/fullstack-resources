@@ -1,6 +1,5 @@
 # Awesome Resources
 
-
 ## JavaScript
 
 ### Watch
@@ -10,6 +9,9 @@ This covers some of the advanced topics in the JS language.
 
 [Udacity Object Oriented Javascript Course](https://www.udacity.com/course/object-oriented-javascript--ud015)
 An excellent introduction to OOP in Javascript. Covers constructors, prototypes, and more.
+
+[The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M)  
+**Intermediate**
 
 ## Read
 [JS for Cats](http://jsforcats.com/)  
@@ -31,6 +33,7 @@ Resources](http://stackoverflow.com/tags/javascript/info)
 
 # CSS
 [CSS Diner](http://flukeout.github.io/)
+[CSS Leveler](http://toolness.github.io/css-selector-game/)
 
 # HTML
 
