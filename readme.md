@@ -13,6 +13,12 @@ An excellent introduction to OOP in Javascript. Covers constructors, prototypes,
 [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M)  
 **Intermediate**
 
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+**Beginner, Advanced**
+
+There is beginner and advanced material here. Start at "up & going" (WIP
+at time of this commit) for begginner material.
+
 ## Read
 [JS for Cats](http://jsforcats.com/)  
 This is a simple, slow introduction to the JavaScript language.  
