@@ -63,6 +63,10 @@ Book on making javascript easier to understand
 
 ## Computer Science
 
+**Watch**
+
+* [CS50 - Recursion](https://www.youtube.com/watch?v=t4MSwiqfLaY)
+
 ### Sorting
 
 * [CS50 - Study Review](https://www.youtube.com/watch?v=FlXVD06zJJ0)
