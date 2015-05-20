@@ -60,6 +60,8 @@ Book on making javascript easier to understand
 ## Unix
 
 ## Tools
+* [Typing Practice](http://www.keybr.com/#!game)
+* [Programing Typing Practice](https://typing.io/)
 
 ## Computer Science
 
