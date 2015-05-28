@@ -42,6 +42,15 @@ Book on making javascript easier to understand
 #### [Single Page App Book](http://singlepageappbook.com/)
 **Advanced**
 
+### Node/Express Tutorials
+
+**Basic**
+#### [Basic Routing for Express](http://expressjs.com/starter/basic-routing.html)**Basic**
+
+**Basic/Intermediate**
+#### [Interactive Node/Express Workshops](https://github.com/azat-co/expressworks)
+
+
 ### Lists
 #### [StackOverflow's List of Resources](http://stackoverflow.com/tags/javascript/info)
 
