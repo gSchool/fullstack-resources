@@ -45,7 +45,7 @@ Book on making javascript easier to understand
 ### Node/Express Tutorials
 
 **Basic**
-#### [Basic Routing for Express](http://expressjs.com/starter/basic-routing.html)**Basic**
+#### [Basic Routing for Express](http://expressjs.com/starter/basic-routing.html)
 
 **Basic/Intermediate**
 #### [Interactive Node/Express Workshops](https://github.com/azat-co/expressworks)
