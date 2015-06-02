@@ -42,10 +42,26 @@ Book on making javascript easier to understand
 #### [Single Page App Book](http://singlepageappbook.com/)
 **Advanced**
 
+### Do
+* [You Can't JavaScript Under Pressure](http://games.usvsth3m.com/javascript-under-pressure/)
+* [Project Euler](https://projecteuler.net/archives)
+* [Exercism](http://exercism.io/)
+* [Code Wars](https://www.codewars.com/)
+* [Coder Byte](http://coderbyte.com/CodingArea/Challenges/)
+* [Daily Programmer](http://www.reddit.com/r/dailyprogrammer)
+
 ### Lists
 #### [StackOverflow's List of Resources](http://stackoverflow.com/tags/javascript/info)
 
 #### [10 Articles every programmer must read](http://www.javacodegeeks.com/2014/05/10-articles-every-programmer-must-read.html)
+
+#### [Free JavaScript Books](http://jsbooks.revolunet.com/)
+
+## Node.js
+
+### Read
+#### [Nodeguide Beginner](http://nodeguide.com/beginner.html)
+**beginner**
 
 ## CSS
 [CSS Diner](http://flukeout.github.io/)
