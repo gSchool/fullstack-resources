@@ -76,8 +76,14 @@ Book on making javascript easier to understand
 ## Unix
 
 ## Tools
+* [Typing Practice](http://www.keybr.com/#!game)
+* [Programing Typing Practice](https://typing.io/)
 
 ## Computer Science
+
+**Watch**
+
+* [CS50 - Recursion](https://www.youtube.com/watch?v=t4MSwiqfLaY)
 
 ### Sorting
 
