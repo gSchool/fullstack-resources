@@ -59,6 +59,15 @@ Book on making javascript easier to understand
 
 ## Node.js
 
+### Watch
+
+#### [Code Tuts by Yield](http://nodetuts.com/)
+
+#### [Learn all the Nodes](http://www.learnallthenodes.com/)
+
+#### [Sails Cast](http://irlnathan.github.io/sailscasts/blog/archives/)
+
+
 ### Read
 #### [Nodeguide Beginner](http://nodeguide.com/beginner.html)
 **beginner**
