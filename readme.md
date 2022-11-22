@@ -167,5 +167,6 @@ Book on making javascript easier to understand
 
 * http://endtheecho.com/
 * http://www.landingfolio.com/
+* https://landings.dev/
 * http://lapa.ninja/
 * http://fltdsgn.com/
